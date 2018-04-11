@@ -1,4 +1,4 @@
-# [<challenge name>](https://www.codewars.com/kata/<challenge name>)
+# [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
 
 Explain the challenge as completely & clearly as you can.
 
@@ -20,7 +20,7 @@ _function name_: Function
 * [Constraints](#constraints)
 * [Resource Estimation](#resource-estimation)
 * [Scaffolding](#scaffolding)
-* [Bugs & Challenges](#bugs-challenges) 
+* [Bugs & Challenges](#bugs-challenges)
 * [Language Features](#language-features)
 * [Use Cases](#use-cases)
 * [Learning Journal](#learning-journal)
@@ -78,7 +78,7 @@ ___
 
 What particular challenges & bugs did you come across when you were filling in your scaffolding?
 
-Were they logic bugs? Language bugs? 
+Were they logic bugs? Language bugs?
 
 Did you have trouble keeping track of which part of the challenge you were solving?
 
@@ -126,4 +126,3 @@ Lessons to apply for next time:
 ___
 ___
 ### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
-
