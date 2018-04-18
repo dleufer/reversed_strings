@@ -1,18 +1,17 @@
 # [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
 
-This kata asks you to write a function which takes a string as an argument and returns that string in reverse. They give the following example:
+This kata asks you to write a function which reverses a string.
+* It takes a string as an argument.
+* It returns that string in reverse.
+
+They give the following example:
 
 `solution('world'); // returns 'dlrow'`
 
-_function name_: Function
-* Args: (how many args does this function take?)
-  * (List each arg, it's type, and it's purpose)
-* Return: (what type does this function return?)
-  * (Describe the return value)
-* Behavior: (What does this function do?)
-
 '''js
-// copy of your polished solution for easy reference.
+function solution(str){
+  return str.split("").reverse().join("");
+}
 '''
 
 
