@@ -1,6 +1,6 @@
 # [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
 
-This kata asks you to write a function which reverses a string.
+This kata asks you to write a function that reverses a string.
 * It takes a string as an argument.
 * It returns that string in reverse.
 
@@ -32,11 +32,11 @@ function solution(str){
 
 ## Input Classifications
 
-What characteristics of your inputs are important for your solution?  
+**What characteristics of your inputs are important for your solution?**
+It is important that the input will be a single block of characters. This means that it will have to be split into individual characters, their order will have to be reversed, and they will have to be re-integrated into a single string.  
 
-What groupings will you have to consider when building your solution?  
-
-How did you use this information to select your test cases?
+**How did you use this information to select your test cases?**
+I still have to make my own test cases.
 
 
 [TOP](#index)
@@ -45,7 +45,11 @@ ___
 
 ## Solution Explanation
 
-Explain your solution in detail, however works for you.  Perhaps by using a specific input to illustrate, by describing your strategy, or by including a diagram [directly from Sketchboard.io](https://sketchboard.io/blog/2014/03/06/github-sketchboard.html).
+I used the `.split` method with an empty string as its parameter, `.split("")`, to separate the input into individual characters.
+
+Once I had an array of individual characters, I used the `.reverse` method to reverse their order.
+
+The next issue to be solved was to re-combine the individual characters into one string. To do this, I used the `.join` method, again with an empty string as parameter: `.join("")`. This re-combined the split and reversed characters into a single string.
 
 [TOP](#index)
 
@@ -53,7 +57,7 @@ Explain your solution in detail, however works for you.  Perhaps by using a spec
 
 ## Constraints
 
-What constraints did you place on yourself, and why?  Did they end up being helpful or not?
+I didn't place any constraints as such, but I did try to write the code as compactly as possible.
 
 [TOP](#index)
 
@@ -62,7 +66,7 @@ ___
 
 ## Resource Estimation
 
-Estimate how what resources you will require, and how much of each.  
+I'm not sure about the use of resources required.
 
 
 [TOP](#index)
