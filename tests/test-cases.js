@@ -4,18 +4,18 @@ tests({
 
   'tibbar': function() {
     eq("rabbit", solution("tibbar"));
-  }
+  },
 
   'mauT': function() {
     eq("Tuam", solution("mauT"));
-  }
+  },
 
-  'leffunk': function() {
-    eq("knuffel", solution("leffunk"));
-  }
+  'anagram 1': function() {
+    eq("racecar", solution("racecar"));
+  },
 
-  'neopmop': function() {
-    eq("pompoen", solution("neopmop"));
+  'anagram 2': function() {
+    eq("Navan", solution("navaN"));
   }
 
 });
