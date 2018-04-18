@@ -1,6 +1,7 @@
 # [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
 
 This kata asks you to write a function which takes a string as an argument and returns that string in reverse. They give the following example:
+
 `solution('world'); // returns 'dlrow'`
 
 _function name_: Function
