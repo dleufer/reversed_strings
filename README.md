@@ -1,6 +1,6 @@
 # [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
 
-Checking if the remote is set up.
+Checking again if the remote is set up.
 Explain the challenge as completely & clearly as you can.
 
 _function name_: Function
