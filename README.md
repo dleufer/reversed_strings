@@ -8,11 +8,12 @@ They give the following example:
 
 `solution('world'); // returns 'dlrow'`
 
-'''js
-function solution(str){
+This was my final solution:
+
+`function solution(str){
   return str.split("").reverse().join("");
-}
-'''
+}``
+
 
 
 ### Index
