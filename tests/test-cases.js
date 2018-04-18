@@ -3,19 +3,19 @@ tests({
   // Fill this in with your test cases
 
   'tibbar': function() {
-    eq("rabbit", your_solution("tibbar"));
-  }
+    eq("rabbit", solution("tibbar"));
+  },
 
   'mauT': function() {
-    eq("Tuam", your_solution("mauT"));
-  }
+    eq("Tuam", solution("mauT"));
+  },
 
-  'leffunk': function() {
-    eq("knuffel", your_solution("leffunk"));
-  }
+  'anagram 1': function() {
+    eq("racecar", solution("racecar"));
+  },
 
-  'neopmop': function() {
-    eq("pompoen", your_solution("neopmop"));
+  'anagram 2': function() {
+    eq("Navan", solution("navaN"));
   }
 
 });
