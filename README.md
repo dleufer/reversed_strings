@@ -1,7 +1,7 @@
 # [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
 
-Checking again if the remote is set up.
-Explain the challenge as completely & clearly as you can.
+This kata asks you to write a function which takes a string as an argument and returns that string in reverse. They give the following example:
+`solution('world'); // returns 'dlrow'`
 
 _function name_: Function
 * Args: (how many args does this function take?)
