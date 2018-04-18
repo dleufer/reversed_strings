@@ -10,12 +10,11 @@ They give the following example:
 
 This was my final solution:
 
-`function solution(str){
-
+```js
+function solution(str){
   return str.split("").reverse().join("");
-
-}`
-
+}
+```
 
 
 ### Index
